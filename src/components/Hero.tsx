@@ -133,9 +133,9 @@ const Hero: React.FC = () => {
 <div className="order-1 lg:order-2 relative">
   {/* Circle Image */}
   <div className="relative w-80 h-80 sm:w-96 sm:h-96 lg:w-[30rem] lg:h-[30rem] rounded-full overflow-hidden shadow-xl mx-auto">
-    <img 
-      src="images/dhruv.png" 
-      alt="Dhruv Dutkar" 
+    <img
+      src="/images/dhruv.png"
+      alt="Dhruv Dutkar"
       className="w-full h-full object-cover"
     />
   </div>
